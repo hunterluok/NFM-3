@@ -1,14 +1,7 @@
 '''
-Tensorflow implementation of Neural Factorization Machines as described in:
+Code about NFM ,the degree >=3;
+Modified from 
 Xiangnan He, Tat-Seng Chua. Neural Factorization Machines for Sparse Predictive Analytics. In Proc. of SIGIR 2017.
-
-This is a deep version of factorization machine and is more expressive than FM.
-
-@author: 
-Xiangnan He (xiangnanhe@gmail.com)
-Lizi Liao (liaolizi.llz@gmail.com)
-
-@references:
 '''
 import os
 import sys
